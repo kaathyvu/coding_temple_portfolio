@@ -1,0 +1,148 @@
+body, html {
+    background-image: url("../images/beige5.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100%;
+    margin:0px;
+}
+
+.hero-text {
+    font-family:arial;
+    text-transform:lowercase;
+    color:white;
+    letter-spacing:-10px;
+    font-size:120px;
+    padding-left:200px;
+    padding-top:75px;
+}
+
+nav {
+    background-color: tan;
+    float:right;
+    text-align:right;
+    margin-top:-20px;
+    padding-left:100px;
+    margin-right:200px;
+    width:67.5%;
+}
+
+nav li {
+    display:inline;
+    list-style-type: none;
+    color:white;
+    padding-right:20px;
+
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-family: arial;
+    font-size: 11px;
+    letter-spacing:3px;
+}
+
+nav a:hover {
+    color:white;
+    font-weight:bold;
+}
+
+.main {
+    width:49%;
+    float:left;
+    margin-top:-10px;
+    margin-left:200px;
+    background-color: white;
+    font-family: arial;
+    font-size:13px;
+    padding:20px;
+    line-height:17px;
+    letter-spacing:1px;
+    text-align:justify;
+}
+
+.main h1 {
+    text-transform:;
+    font-family: arial;
+    font-size:28px;
+    font-style:;
+    letter-spacing:-1px;
+}
+
+.about {
+    width:49%;
+    float:left;
+    margin-top:-10px;
+    margin-left:200px;
+    background-color: white;
+    font-family: arial;
+    font-size:13px;
+    padding:20px;
+    line-height:17px;
+    letter-spacing:1px;
+    text-align:justify;
+}
+
+.about h1 {
+    text-transform:;
+    font-family: arial;
+    font-size:28px;
+    font-style:;
+    letter-spacing:-1px;
+}
+
+.contact {
+    width:49%;
+    float:left;
+    margin-top:-10px;
+    margin-left:200px;
+    background-color: white;
+    font-family: arial;
+    font-size:13px;
+    padding:20px;
+    line-height:17px;
+    letter-spacing:1px;
+    text-align:justify;
+}
+
+.contact h1 {
+    text-transform:;
+    font-family: arial;
+    font-size:28px;
+    font-style:;
+    letter-spacing:-1px;
+}
+
+.sidebar {
+    width:20%;
+    float:right;
+    padding-top:10px;
+    margin-top:0px;
+    margin-right:200px;
+    text-align:center;
+    font-family: arial;
+    font-size:12px;
+    text-transform:uppercase;
+    line-height:16px;
+    background-color: white;
+    letter-spacing:2px;
+}
+
+footer {
+    width:100%;
+    font-family:arial;
+    font-size:12px;
+    letter-spacing:1px;
+    text-align:center;
+}
+
+footer hr {
+    border:0px;
+}
+
+main {
+    overflow:auto;
+    margin-top:-15px;
+    width:100%;
+}
